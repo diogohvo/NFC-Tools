@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NFC Tools</string>
+    <string name="intro">Aproxime-se de um dispositivo NFC</string>
+</resources>

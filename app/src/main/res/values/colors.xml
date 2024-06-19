@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teal_main">#FF6295A2</color>
+    <color name="teal_sec">#FF80B9AD</color>
+    <color name="teal_accent">#FFB3E2A7</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
